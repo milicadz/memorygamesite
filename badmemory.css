@@ -1,0 +1,28 @@
+.pocetna {
+  width: 20%;
+  margin-left: 20%;
+  height: 70px;
+  border-radius: 20%;
+  font-size: 200%;
+  font-family: arial;
+  color: chocolate;
+}
+  
+#naslov {
+  text-align: center;
+  margin-top: 10%;
+}
+  
+#glavni {
+  margin-left: 10%;
+  width: 80%;
+  border: dotted;
+  text-align: center;
+}
+  
+.igrica_dugme {
+  width: 150px;
+  height: 150px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
